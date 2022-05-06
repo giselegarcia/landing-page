@@ -1,0 +1,30 @@
+.imagem-carrosel{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+.texto-carrosel{
+    font-family: 'Pacifico', cursive;
+}
+.cor-especial{
+    color: rgb(7, 99, 122);
+}
+.botao-cor-especial{
+    background-color:rgb(7, 99, 122);
+    color: white;
+}
+.borda-cor-especial{
+    border-color:rgb(7, 99, 122);
+}
+.card-posicao-imagem{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 200px;
+}
+.card-largura{
+    max-width: 18rem;
+}
+#navbarText{
+    display: flex;
+    justify-content: end;
+}
